@@ -1,4 +1,4 @@
-# Neotix - Transformação Digita com User Experience
+# Neotix - Transformação Digital com User Experience
 
 ## Apaixonados por experiência de usuário
 
