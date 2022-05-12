@@ -1,6 +1,6 @@
 # Neotix - Transformação Digital com User Experience
 
-## Apaixonados por experiência de usuário
+## Apaixonados por experiência do usuário
 
 Estamos há mais de 20 anos criando experiências em projetos de alta complexidade que causam transformações nas pessoas e nas empresas, sempre com resultados além das expectativas.
 
