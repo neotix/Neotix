@@ -1,3 +1,5 @@
+![title](https://d1h3qcw2621tyt.cloudfront.net/images/Neotix_Logo_Roxo.svg)
+
 # Neotix - Transformação Digital com User Experience
 
 ## Apaixonados por experiência do usuário
